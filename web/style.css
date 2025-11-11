@@ -1,0 +1,6 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#07172a;color:#e6f7ff;padding:20px}
+.wrap{max-width:1000px;margin:0 auto}
+header{display:flex;justify-content:space-between;align-items:center}
+h1{color:#4be1ff}
+.card{background:#071f30;padding:12px;border-radius:8px;margin-bottom:10px}
+pre{white-space:pre-wrap}
